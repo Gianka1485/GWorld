@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "gworld:kyptoite_gem"
+    }
+  },
+  "result": {
+    "item": "gworld:kyptoite_chestplate"
+  }
+}

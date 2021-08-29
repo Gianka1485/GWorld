@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "W",
+    "W"
+  ],
+  "key": {
+    "G": {
+      "item": "gworld:kyptoite_gem"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gworld:kyptoite_shovel"
+  }
+}

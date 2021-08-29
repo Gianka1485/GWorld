@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gworld:item/kyptoite_shovel"
+  }
+}

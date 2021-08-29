@@ -1,0 +1,19 @@
+{
+  "block.gworld.kyptoite_ore": "Mena de kyptoita",
+
+  "item.gworld.kyptoite_dust": "Polvo de kyptoita",
+  "item.gworld.kyptoite_gem": "Gema de kyptoita",
+
+  "item.gworld.kyptoite_boots": "Botas de kyptoita",
+  "item.gworld.kyptoite_chestplate": "Peto de kyptoita",
+  "item.gworld.kyptoite_helmet": "Casco de kyptoita",
+  "item.gworld.kyptoite_leggings": "Grebas de kyptoita",
+
+  "item.gworld.kyptoite_axe": "Hacha de kyptoita",
+  "item.gworld.kyptoite_hoe": "Azada de kytoita",
+  "item.gworld.kyptoite_pickaxe": "Pico de kyptoita",
+  "item.gworld.kyptoite_shovel": "Pala de kyptoita",
+  "item.gworld.kyptoite_sword": "Espada de kyptoita",
+
+  "itemGroup.gworld": "GWorld"
+}

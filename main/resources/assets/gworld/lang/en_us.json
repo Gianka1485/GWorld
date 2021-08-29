@@ -1,0 +1,19 @@
+{
+  "block.gworld.kyptoite_ore": "Kyptoite ore",
+
+  "item.gworld.kyptoite_dust": "Kyptoite dust",
+  "item.gworld.kyptoite_gem": "Kyptoite gem",
+
+  "item.gworld.kyptoite_boots": "Kyptoite boots",
+  "item.gworld.kyptoite_chestplate": "Kyptoite chestplate",
+  "item.gworld.kyptoite_helmet": "Kyptoite helmet",
+  "item.gworld.kyptoite_leggings": "Kyptoite leggings",
+
+  "item.gworld.kyptoite_axe": "Kyptoite axe",
+  "item.gworld.kyptoite_hoe": "Kyptoite hoe",
+  "item.gworld.kyptoite_pickaxe": "Kyptoite pickaxe",
+  "item.gworld.kyptoite_shovel": "Kyptoite shovel",
+  "item.gworld.kyptoite_sword": "Kyptoite sword",
+
+  "itemGroup.gworld": "GWorld"
+}
